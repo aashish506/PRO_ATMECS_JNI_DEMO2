@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<jni4net-proxygen xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://jni4net.sf.net/0.8.8.0/toolConfig.xsd">
+  <TargetDirJvm>D:\Eclipse\Workspace0\PRO_ATMECS_JNI_DEMO2\jvm</TargetDirJvm>
+  <TargetDirClr>D:\Eclipse\Workspace0\PRO_ATMECS_JNI_DEMO2\clr</TargetDirClr>
+  <AssemblyReference Assembly="D:\Visual Studio Pro\Project_files1\SQLDemo1\SQLDemo1\bin\Debug\SQLDemo1.dll" Generate="true" />
+</jni4net-proxygen>
